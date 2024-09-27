@@ -1,5 +1,6 @@
 
 <img src="https://github.com/user-attachments/assets/761bcffb-34bf-4f46-b521-a9d933ac7979" />
+</br></br>
 <img src="https://github.com/user-attachments/assets/1f2c0202-95a0-4200-b200-03d96e1a81fc" />  
 
 <h1 align="center"> Timer 📄 </h1>
